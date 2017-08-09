@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: d31a7271dadce2c4baf0ab9772e4cb9b
+timeCreated: 1502237440
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bez_hairlock_000
+    100002: bez_hairlock_001
+    100004: bez_hairlock_002
+    100006: bez_hairlock_003
+    100008: bez_hairlock_004
+    100010: bez_hairlock_005
+    100012: bez_hairlock_006
+    100014: bez_hairlock_007
+    100016: bez_hairlock_008
+    100018: bez_hairlock_009
+    100020: bez_hairlock_010
+    100022: bez_hairlock_011
+    100024: bez_pavelA
+    100026: bez_taperA
+    100028: Low_Poly_Characte_000_Mesh_001
+    100030: //RootNode
+    100032: Sphere
+    100034: Sphere_001
+    100036: Sphere_002
+    400000: bez_hairlock_000
+    400002: bez_hairlock_001
+    400004: bez_hairlock_002
+    400006: bez_hairlock_003
+    400008: bez_hairlock_004
+    400010: bez_hairlock_005
+    400012: bez_hairlock_006
+    400014: bez_hairlock_007
+    400016: bez_hairlock_008
+    400018: bez_hairlock_009
+    400020: bez_hairlock_010
+    400022: bez_hairlock_011
+    400024: bez_pavelA
+    400026: bez_taperA
+    400028: Low_Poly_Characte_000_Mesh_001
+    400030: //RootNode
+    400032: Sphere
+    400034: Sphere_001
+    400036: Sphere_002
+    2300000: bez_hairlock_000
+    2300002: bez_hairlock_001
+    2300004: bez_hairlock_002
+    2300006: bez_hairlock_003
+    2300008: bez_hairlock_004
+    2300010: bez_hairlock_005
+    2300012: bez_hairlock_006
+    2300014: bez_hairlock_007
+    2300016: bez_hairlock_008
+    2300018: bez_hairlock_009
+    2300020: bez_hairlock_010
+    2300022: bez_hairlock_011
+    2300024: bez_pavelA
+    2300026: bez_taperA
+    2300028: Low_Poly_Characte_000_Mesh_001
+    2300030: Sphere
+    2300032: Sphere_001
+    2300034: Sphere_002
+    3300000: bez_hairlock_000
+    3300002: bez_hairlock_001
+    3300004: bez_hairlock_002
+    3300006: bez_hairlock_003
+    3300008: bez_hairlock_004
+    3300010: bez_hairlock_005
+    3300012: bez_hairlock_006
+    3300014: bez_hairlock_007
+    3300016: bez_hairlock_008
+    3300018: bez_hairlock_009
+    3300020: bez_hairlock_010
+    3300022: bez_hairlock_011
+    3300024: bez_pavelA
+    3300026: bez_taperA
+    3300028: Low_Poly_Characte_000_Mesh_001
+    3300030: Sphere
+    3300032: Sphere_001
+    3300034: Sphere_002
+    4300000: Sphere_002
+    4300002: Sphere_001
+    4300004: Sphere
+    4300006: bez_pavelA
+    4300008: bez_taperA
+    4300010: bez_hairlock_011
+    4300012: bez_hairlock_009
+    4300014: bez_hairlock_010
+    4300016: bez_hairlock_008
+    4300018: bez_hairlock_007
+    4300020: bez_hairlock_006
+    4300022: bez_hairlock_005
+    4300024: bez_hairlock_004
+    4300026: bez_hairlock_003
+    4300028: bez_hairlock_002
+    4300030: bez_hairlock_001
+    4300032: bez_hairlock_000
+    4300034: Low_Poly_Characte_000_Mesh_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
