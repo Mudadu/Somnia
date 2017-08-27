@@ -34,9 +34,9 @@ public class PlayerMotor : MonoBehaviour
         }
 
         
-        moveVector.x = Input.GetAxis("Horizontal") * 150.0f;
+        moveVector.x = Input.GetAxis("Horizontal") * 1500.0f;
         moveVector.y = verticalVel;
-        moveVector.z = Input.GetAxis("Vertical") * 150.0f;
+        moveVector.z = Input.GetAxis("Vertical") * 1500.0f;
         controle.Move(moveVector * Time.deltaTime);
 
 
